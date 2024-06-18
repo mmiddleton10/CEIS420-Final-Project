@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CEIS420 Final Project", "CEIS420 Final Project\CEIS420 Final Project.pyproj", "{E0849A5F-E156-43D5-957B-01A4BEEE9177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0849A5F-E156-43D5-957B-01A4BEEE9177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0849A5F-E156-43D5-957B-01A4BEEE9177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5297D76E-10C6-4BD1-B0CF-84924C52B2F5}
+	EndGlobalSection
+EndGlobal
